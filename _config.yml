@@ -3,7 +3,7 @@ title: My-First-Blog
 author: Monica
 email: your-email@domain.com
 description: My First log
-github_username:  MonicaUnlimited
+github_username: MonicaUnlimited
 
 # Build settings
 markdown: kramdown
